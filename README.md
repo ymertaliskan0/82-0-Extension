@@ -1,4 +1,4 @@
-# Hoops Draft Tracker & Calculator
+# 82-0 Score Tracker & Calculator
 
 A lightweight, event-driven JavaScript tool designed to run alongside web-based basketball drafting games. It silently calculates custom player valuations, tracks your active roster's total score, and provides a live leaderboard of the best available players.
 
