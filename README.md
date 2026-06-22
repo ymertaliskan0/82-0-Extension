@@ -14,9 +14,8 @@ A lightweight, event-driven JavaScript tool designed to run alongside web-based 
 ## Installation
 
 This script is built in vanilla JavaScript and can be injected into the browser via:
-1. **Userscript Managers:** Create a new script in Tampermonkey or Greasemonkey and paste the code.
-2. **Browser Console:** Simply copy the contents of `script.js` and paste it into the Developer Console (F12) while on the game page.
-3. **Chrome Extension:** Load the directory as an unpacked extension (requires a basic `manifest.json`).
+1. **Browser Console:** Simply copy the contents of `script.js` and paste it into the Developer Console (F12) while on the game page.
+2. **Chrome Extension:** Load the directory as an unpacked extension (select the `manifest.json`).
 
 ## Usage
 
