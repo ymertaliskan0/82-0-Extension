@@ -19,6 +19,5 @@ This script is built in vanilla JavaScript and can be injected into the browser 
 
 ## Usage
 
-1. **Scan Roster:** Click the injected "Scan Roster" button at the top of the screen to initialize the leaderboards and score tracking.
-2. **Drafting:** Click on a player in the list to cache their score, then click an available court slot (PG, SG, SF, PF, C) to add them to your running sum.
-3. **Resetting:** The roster sum will automatically drop back to zero when you start a new game via "Play Classic", "Build Another", or clear the board via "SPIN".
+1. **Classic Mode:** All features are fully automated. If the script ever misses a calculation or the leaderboard fails to update, simply click the **Scan Roster** button at the top of the screen to force a refresh.
+2. **HoopIQ Mode:** Player scores are hidden by default. You can manually reveal scores one by one, or click the **Reveal All** button in the bottom left to instantly unlock all the features available in Classic Mode.
